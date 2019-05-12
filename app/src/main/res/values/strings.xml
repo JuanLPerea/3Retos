@@ -1,0 +1,39 @@
+<resources>
+    <string name="lema">Fuerza * Inteligencia * Magia</string>
+    <string name="iguales">Iguales</string>
+    <string name="top">Top</string>
+    <string name="amigos">Amigos</string>
+    <string name="online">Online</string>
+    <string name="buscar">Buscar Jugador</string>
+    <string name="mensajes">Mensajes</string>
+    <string name="victorias">Victorias:  </string>
+    <string name="derrotas">Derrotas: </string>
+    <string name="mensaje">El Rival tiene que estar conectado, mandado mensaje para que se conecte...</string>
+    <string name="yaretado">¡¡ El jugador está luchando !!</string>
+    <string name="amigo">Jugador añadido como Amigo</string>
+    <string name="fin">Fin. Cuando el rival termine, aparecerá el resultado ...</string>
+
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-4821530383095033/5883489875</string>
+    <string name="abandonar">Abandonar</string>
+    <string name="contrase_a">contraseña</string>
+    <string name="empezar">EMPEZAR</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="recordar">Recordar Contraseña</string>
+    <string name="jugador">Jugador</string>
+    <string name="resultado_de_tu_rival">Resultado de tu Rival:</string>
+    <string name="acepta_el_reto">..... ¡¡Acepta el Reto!! .....</string>
+    <string name="nombre_rival">Nombre Rival</string>
+    <string name="vence_a_tu_rival_usando">Vence a tu Rival usando...</string>
+    <string name="fuerza">Fuerza</string>
+    <string name="inteligencia">Inteligencia</string>
+    <string name="magia">Magia</string>
+    <string name="perdido">Perdido</string>
+    <string name="ganar">Ganado</string>
+    <string name="empate">Empate</string>
+    <string name="retado">Te ha retado</string>
+    <string name="conecta">Conéctate a</string>
+    <string name="fin_reto">... Fin Reto ...</string>
+    <string name="app_name">3Retos</string>
+
+
+</resources>
